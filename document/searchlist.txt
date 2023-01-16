@@ -1,0 +1,20 @@
+plant
+Brassicaceae
+phyto
+Arabidopsis
+At[0-5]g[0-9]{5}
+lyrata
+Oryza
+sativa
+physcomitrella
+Cucumis
+tomato
+Nicotiana
+Solanum
+lycopersicum
+Glycine max
+G.max
+soybean
+\scorn\s
+zea maize
+zea mays

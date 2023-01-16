@@ -1,0 +1,12 @@
+# Provides key words for pubmed search
+# seperate each key word with common (,)
+
+WORD=
+TI=
+TIAB= arabidopsis, Oryza, rice, physcomitrella, Nicotiana, Glycine max, maize, corn, zea mays, tomato, solanum, soybean, auxin, ethylene, pytochrome,brassinosteroid,xylem,flowering, flower, root, shoot, leaf, plastid
+AU=
+AFFL=
+JOUR=Cell, Nature, Science
+PDAT=
+VOL=
+PAGE=

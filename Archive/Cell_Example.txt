@@ -1,0 +1,3016 @@
+
+<!DOCTYPE html>
+<html lang="en" class="pb-page<" 
+><head data-pb-dropzone="head"><meta name="pbContext" content=";website:website:cell-site;wgroup:string:Default Website Group;pageGroup:string:Publication Page;page:string:List of Issues;journal:journal:cell;product:product:elsevier:product:cell"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <meta name="robots" content="noodp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <meta name="apple-itunes-app" content="app-id=591217684"/>
+
+
+    <meta name="google-play-app" content="app-id=com.cell.journalreader" />
+
+
+
+
+
+<script type="text/javascript">
+    function optimizelyTimeout() {
+        window.optimizely = window.optimizely || [];
+        if (!window.optimizely.data) {
+            window.optimizely.push("timeout")
+        }
+    }
+    (function () {
+        var e = "https:" == document.location.protocol ? "https://" : "http://";
+        var t = document.createElement("script");
+        t.type = "text/javascript";
+        t.async = true;
+        t.src = e + "cdn.optimizely.com/js/537390469.js";
+        var n = document.getElementsByTagName("script")[0];
+        n.parentNode.insertBefore(t, n)
+    })();
+    setTimeout(optimizelyTimeout, 1e3)
+</script>
+
+
+
+
+
+<script type="text/javascript">var NTPT_PGEXTRA='issn=0092-8674&jname=Cell&specialty=Cell%20Press&pub=Elsevier&specialty=Cell%20Press&issn=0092-8674&jname=Cell&specialty=Cell%20Press&lc=http%3A%2F%2Fwww.cell.com%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6%26issn%3D0092-8674&';
+var NTPT_GLBLEXTRA="site=cell";
+var NTPT_IDCOOKIE_DOMAIN=".healthadvance.com";
+var NTPT_SET_SESSION_COOKIE=false;</script>
+<script type="text/javascript" src="/wro/97zr/ntpagetag.js" async defer></script>
+
+
+
+<title>Archive: Cell</title><meta name="name" content="Archive: Cell" />
+
+
+
+
+<meta charset="UTF-8" /><!--
+
+    Pagebuild admin UI
+-->
+<noscript><style>.requiresJS{display:none}.dartAd{display:block !important}</style></noscript><script async defer src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><link rel="stylesheet" type="text/css" href="/wro/97zr/product.css" /><link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)" href="/wro/97zr/small-device.css" /><link rel="stylesheet" type="text/css" href="/pb/css/t1450751096547-v1450079894000/head_1_3656_3957_4786_5525.css" id="pb-css" data-pb-css-id="t1450751096547-v1450079894000/head_1_3656_3957_4786_5525.css"/><link rel="stylesheet" type="text/css" href="/wro/97zr/cell.css" /><script type="text/javascript" src="/wro/97zr/product.js"></script><!--[if IE 6]><link rel="stylesheet" type="text/css" href="/wro/97zr/ie6.css"/><script type="text/javascript" src="/wro/97zr/ie6.js"></script><![endif]-->
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url":"http://www.cell.com",
+    "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://www.cell.com/action/doSearch?AllField={search-term}&amp;searchLoggingType=google",
+    "query-input": "required name=search-term"
+    }
+    }
+</script>
+</head>
+<body>
+
+<noscript><img src="//pt000123.unica.com/ntpagetag.gif?js=0&amp;site=cell" height=1 width=1 border=0 hspace=0 vspace=0 alt=""/></noscript>    <div id="pb-page-content">
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none cell-top-head widget-none  widget-compact-all" id="33201854-f059-4b63-b4f9-1b7f775b457b">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_2_3">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget literatumAd alignLeft  widget-  widget-compact-all" id="daf43809-a79a-4e5e-883c-bd5870ede36d">
+        
+        
+            
+        
+
+        <div class="wrapped " id='Leaderboard ads'>
+            
+            <div class="widget-body body body-  body-compact-all"><div class="pb-ad">
+            <!-- START Legacy Cell code that was requested to be maintained on Literatum -->
+<input type="hidden" id="hiddenOrderId" />
+<!-- END Legacy Cell code -->
+
+<script type="text/javascript">
+	var ord = Math.random()*10000000000000000;
+	document.getElementById("hiddenOrderId").value = ord;
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/Cell;pos=top;tile=1;sz=728x90;pii=;loggedin=no;ord='+ord+'?"><\/script>');
+</script>
+
+<noscript>
+	<a target="_blank" href="/action/clickThrough?id=2685&url=https%3A%2F%2Fad.doubleclick.net%2Fjump%2FCell.com%2FCell.com%2FCell%3Bpos%3Dtop%3Btile%3D1%3Bsz%3D728x90%3Bord%3D95551%3F&loc=%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&pubId=40000018"><img border="0" alt="" src="https://ad.doubleclick.net/ad/Cell.com/Cell.com/Cell;pos=top;tile=1;sz=728x90;pii=;ord=95551?"/></a>
+</noscript>
+        </div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_1_3">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget profileLinks alignRight cell-profile-links widget-none  widget-compact-all" id="b4ff3c01-39d5-49a4-ab89-0e97390ae967">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div>
+    
+            
+
+<ul class="profileLinkList">
+    
+    
+    
+    <li class="profileLink">
+        <a href="https://secure.jbs.elsevierhealth.com/action/showLogin?redirectUri=http%3A%2F%2Fwww.cell.com%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&amp;code=cell-site" class="toggle dialogPosition">Login</a>
+        <div class="dialog loginDialog" title="Login" draggable="false" removeErrors="true" >
+            
+            
+                    <div class="sso-login-popup">
+                        <form action="https://secure.jbs.elsevierhealth.com/action/doLogin?code=cell-site" name="loginForm" class="loginForm doLogin" method="post"><div class="row-fluid">
+        <div class="pull-right">
+            <label for="formLoginEmail"><span>Email/Username:</span></label>
+            <input id="formLoginEmail" class="loginInput" type="text" name="login" value="" size="15" />
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="row-fluid">
+        <div class="pull-right">
+            <label for="passwordNormalUser"><span>Password:</span></label>
+            <input id="passwordNormalUser" class="loginInput" type="password" name="password" value="" autocomplete="off" />
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+
+    <div class="loginControls">
+    
+        <label for="formLoginSavePass"><input id="formLoginSavePass" type="checkbox" name="savePassword" value="1" /> Remember me</label>
+    <input class="CTABtn" type="submit" value="Log In" /><br/>
+    <a href="/action/requestResetPassword" class="forgotPassword">Forgot password?</a><br/>
+    </div>
+    <input type="hidden" name="redirectUri" value="http://www.cell.com/cell/archive?decade=200&amp;amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&amp;dialogRequest=" /><input type="hidden" name="referer" value="/cell/archive?decade=200&amp;amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6" /><input type="hidden" name="ecommRedirect" value="" /><input type='hidden' name='code' value='cell-site'/></form>
+                    </div>
+                
+        </div>
+    </li>
+     <li id="profileregisterLink" class="profileLink">
+         <a href="https://secure.jbs.elsevierhealth.com/action/registration?redirectUri=http%3A%2F%2Fwww.cell.com%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&amp;journal=cell&amp;code=cell-site">Register</a>
+         <div id="profileregisterTip">
+            <div><a href="https://secure.jbs.elsevierhealth.com/action/registration?redirectUri=http%3A%2F%2Fwww.cell.com%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&amp;journal=cell&amp;code=cell-site">Register as a Guest</a></div>
+            <div><a href="https://secure.jbs.elsevierhealth.com/cell/activate?code=cell-site">Register and Claim Your Subscription</a></div>
+         </div>
+     </li>
+     
+         <li class="profileLink">
+             <span><a href="https://secure.jbs.elsevierhealth.com/cell/subscribe?code=cell-site">Subscribe</a></span>
+         </li>
+     
+     
+
+
+    
+
+
+ </ul>
+        
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget literatumAd none  widget-  widget-compact-all" id="afd3d641-612d-4506-9f06-d9547634196d">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-  body-compact-all"><div class="pb-ad">
+                        <!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7982C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+			<script>
+
+			(function (){
+			 var script = document.createElement("script");
+			 script.appendChild(document.createTextNode(
+			"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T7982C');"
+
+			 ));
+
+			document.body.insertBefore(script, document.body.firstChild);
+			}
+			());
+
+			</script>
+			<!-- End Google Tag Manager -->
+        </div></div>
+        </div>
+    </div>
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget page-main-content none  widget-none  widget-compact-all" id="pageMainContent">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget pageHeader none cell-site-header widget-none  widget-compact-all" id="pageHeader">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="page-header">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="4553975f-bdd2-4262-b781-2d23204e59f9">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_1_4">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-image none cell-logo widget-none" id="2cc4416c-de3a-4426-9653-2a9dc8f91d04">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><a href="/cell/home"
+title=" Cell"
+>
+<img src="/pb/assets/raw/shared%2Flogos%2Fheader-banners%2FCell_headerlogo.png"
+alt=" Cell"
+/>
+</a></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_3_4">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget quickSearch none  widget-none  widget-compact-all" id="d8a19ba1-a1f3-4b32-9eb1-0565decfb9c8">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><input class="autoCompleteServerURL" type="hidden" value="http://JUMP-AUTOCOMPLETE-PROD-R1-345482992.us-west-2.elb.amazonaws.com:8080/autocomplete/jsonp" />
+
+        <div class="quickSearch">
+           <form action="/action/doSearch?journalCode=cell" name="quickSearchBar" class="form-inline" method="get" onsubmit="return validateQuickSearchForm();"><input type="hidden" name="searchType" value="quick" />
+                <div class="quickSearchOption">
+                    
+                    <label class="off-screen" for="searchText">Search Terms</label>
+                    <input id="searchText" type="text" name="searchText" value="" size="15" />
+                    
+                            <button type="submit">Search</button>
+                            <div class="stackedDisplay">
+                                
+<label for="quickSearchOccurrences" class="off-screen"> Search within</label>
+<select id="quickSearchOccurrences" name="occurrences">
+
+    <option value="all" selected="selected">All Content</option>
+    <option value="articleTitleAbstractKeywords">Article Title, Abstract, Keywords</option>
+    <option value="author">Authors</option>
+    <option value="articleTitle">Article Title</option>
+    <option value="abstract">Abstract</option>
+</select>
+
+
+                                <a href="/cell/search?seriesIssn=0092-8674&amp;searchType=advanced&amp;journalCode=cell">
+                                    
+                                    Advanced Search
+                                </a>
+                            </div>
+                        
+                    <input type="hidden" name="journalCode" value="cell"/>
+                </div>
+                
+                        <div class="scopeOptions">
+                              <label for="searchScopeSeries" ><input id="searchScopeSeries" type="radio" name="searchScope" value="series" checked="checked" />Cell<br/></label>
+                              <label for="searchScopeFullSite"><input id="searchScopeFullSite" type="radio" name="searchScope" value="fullSite" />All cell.com</label>
+                              <input type="hidden" name="seriesISSNFltraddfilter" value="0092-8674" />
+                              <input type="hidden" name="journalCode" value="cell"/>
+                        </div></form>
+        </div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-frame none dualMenu widget-none  widget-compact-all" id="962e286b-cfe0-429e-b783-fb309ab44c66">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="dd0b5fac-48c6-4f1b-bb92-56ef646d0937">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_1_16">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="01b986ae-ffe5-4557-8d71-a6995e4b56cf">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><ul class="cellp_exploreNav">
+<li class="cellp_containerNav">Explore
+<div class="cellp_navDropdown_5columns">
+	
+<div class="cellp_navDropdown_col_1">
+	<p class="cellp_navHeadings" style="margin-bottom: 20px;"><a href="/home"><img src="/pb/assets/raw/shared/logos/cell_press_logo_small.png" /></a> Home</p>
+	<p class="cellp_navHeadings">Events</p>
+	<ul>
+	<li><a href="/symposia">Cell Symposia</a></li>
+	<li><a href="/lablinks">LabLinks</a></li>
+	<li><a href="/webinars">Webinars</a></li>
+	</ul> 
+
+<p class="cellp_navHeadings">Portals</p>
+	<ul>
+	<li><a href="/reviews">Cell Press Reviews</a></li>
+	<li><a href="/china">China Gateway</a></li>
+	<li><a href="/nucleus">Nucleus</a></li>
+	<li><a href="/snapshots">Snapshot Archive</a></li>
+	<li><a href="/trends">Trends</a></li>
+	</ul>  
+
+
+</div>
+
+<div class="cellp_navDropdown_col_2">
+<p class="cellp_navHeadings">Multimedia</p>
+	<ul>
+	<li><a href="/pictureshow">Cell Picture Show</a></li>
+	<li><a href="/podcast">Cell Press Podcast</a></li>
+	<li><a href="/video">Cell Press Videos</a></li>
+	</ul>   
+	
+	<p class="cellp_navHeadings">Community</p>
+<ul>
+	<li><a href="http://careers.cell.com/">Cell Career Network</a></li>
+	<li><a href="/crosstalk">CrossTalk Blog</a></li>
+	<li><a href="/newsroom">Newsroom</a></li>
+
+	</ul>  
+
+ 
+	<p class="cellp_navHeadings">Special Editions</p>
+	<ul>
+	<li><a href="/bestof">Best Of</a></li>
+	<li><a href="/selections">Cell Selections</a></li>
+	<li><a href="/spotlightonchina">Spotlight on China</a></li>
+	<li><a href="/trends/limited-edition">Trends: Limited Edition</a></li>
+
+	</ul>    
+	
+</div>
+	
+<div class="cellp_navDropdown_col_3">
+	<p class="cellp_navHeadings">Research Journals</p>
+	<ul>
+	<li><a href="/cancer-cell/home">Cancer Cell</a></li>
+	<li><a href="/cell/home">Cell</a></li>
+	<li><a href="/cell-host-microbe/home">Cell Host & Microbe</a></li>
+	<li><a href="/cell-metabolism/home">Cell Metabolism</a></li>
+	<li><a href="/cell-reports/home">Cell Reports</a></li>
+	<li><a href="/cell-stem-cell/home">Cell Stem Cell</a></li>
+	<li><a href="/cell-systems/home">Cell Systems</a></li>
+	<li><a href="/chemistry-biology/home">Chemistry & Biology</a></li>
+	<li><a href="/current-biology/home">Current Biology</a></li>
+	<li><a href="/developmental-cell/home">Developmental Cell</a></li>
+	<li><a href="/immunity/home">Immunity</a></li>
+	<li><a href="/molecular-cell/home">Molecular Cell</a></li>
+	<li><a href="/neuron/home">Neuron</a></li>
+	<li><a href="/structure/home">Structure</a></li>
+	</ul>   
+</div>
+	
+<div class="cellp_navDropdown_col_4">
+	<p class="cellp_navHeadings">Trends In...</p>
+	<ul>
+	<li><a href="/trends/biochemical-sciences/home">Biochemical Sciences</a></li>
+	<li><a href="/trends/biotechnology/home">Biotechnology</a></li>
+	<li><a href="/trends/cancer/home">Cancer</a></li>
+	<li><a href="/trends/cell-biology/home">Cell Biology</a></li>
+	<li><a href="/trends/cognitive-sciences/home">Cognitive Sciences</a></li>
+	<li><a href="/trends/ecology-evolution/home">Ecology & Evolution</a></li>
+	<li><a href="/trends/endocrinology-metabolism/home">Endocrinology & Metabolism</a></li>
+	<li><a href="/trends/genetics/home">Genetics</a></li>
+	<li><a href="/trends/immunology/home">Immunology</a></li>
+	<li><a href="/trends/microbiology/home">Microbiology</a></li>
+	<li><a href="/trends/molecular-medicine/home">Molecular Medicine</a></li>
+	<li><a href="/trends/neurosciences/home">Neurosciences</a></li>
+	<li><a href="/trends/parasitology/home">Parasitology</a></li>
+	<li><a href="/trends/pharmacological-sciences/home">Pharmacological Sciences</a></li>
+	<li><a href="/trends/plant-science/home">Plant Science</a></li>
+	</ul>   
+</div>	
+
+<div class="cellp_navDropdown_col_5">
+	<p class="cellp_navHeadings">Partner Journals</p>
+	<ul>
+	<li><a href="/ajhg/home">AJHG</a></li>
+	<li><a href="/biophysj/home">Biophysical Journal</a></li>
+	<li><a href="http://www.ebiomedicine.com/">EBioMedicine</a></li>
+	<li><a href="/molecular-plant/home">Molecular Plant</a></li>
+	<li><a href="/stem-cell-reports/home">Stem Cell Reports</a></li>
+	</ul>   
+	
+	<p class="cellp_navHeadings">Information</p>
+	<ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/contact">Contact Us</a></li>
+	<li><a href="http://advertisers.cell.com/">For Advertisers</a></li>
+	<li><a href="/Librarians">For Librarians</a></li>
+	<li><a href="http://recruitmentads.cell.com/">For Recruiters</a></li>
+	<li><a href="/journalreader">Mobile</a></li>
+	</ul>   
+	
+</div>
+     
+
+             
+</div>
+</li>
+</ul></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_15_16">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget menuXml none  widget-none  widget-compact-all" id="e7a0b3f9-9b9a-4246-a060-9d55a4fc102b">
+        
+        
+            
+        
+
+        <div class="wrapped " id='Default Journal Nav - Do not edit'>
+            
+            <div class="widget-body body body-none  body-compact-all"><ul id="primaryNav" class="primaryNav shadow">
+   <li><a href="/cell/newarticles">Online Now</a></li>
+   <li><a href="/cell/current">Current Issue</a></li>
+   <li><a href="/cell/archive">Archive</a></li>
+   <li><a class="expander" href="#">Journal Information</a><ul>
+         <li><a href="/cell/aims">Aims and Scope</a></li>
+         <li><a href="/cell/contact">Contact</a></li>
+         <li><a href="/librarians">Information for Librarians</a></li>
+         <li><a href="http://advertisers.cell.com">Media Kit - Display</a></li>
+         <li><a href="http://recruitmentads.cell.com">Media Kit - Recruitment</a></li>
+         <li><a href="/permissions">Permissions</a></li>
+         <li><a href="/reviewers">Reviewer Instructions</a></li>
+         <li><a href="/cell/editorial-board">Staff and Editorial Board</a></li>
+      </ul>
+   </li>
+   <li><a class="expander" href="#">For Authors</a><ul>
+         <li><a href="/cell/articletransfer">Article Transfer</a></li>
+         <li><a href="/cell/authors">Author Instructions</a></li>
+         <li><a href="/cell/cover-submission">Cover Submissions</a></li>
+         <li><a href="/figureguidelines">Figure Guidelines</a></li>
+         <li><a href="https://www.elsevier.com/about/open-science/open-access/funding-body-agreements">Funding Body Policies</a></li>
+         <li><a href="/publicationguide">Publication Guide</a></li>
+         <li><a href="/rights-sharing-embargoes">Rights, Sharing, Embargoes</a></li>
+         <li><a href="http://www.editorialmanager.com/cell/" target="yes">Submit</a></li>
+         <li><a href="/cell/supplemental-information">Supplemental Information</a></li>
+         <li><a href="/video-abstract-guidelines">Video Abstract Guidelines</a></li>
+         <li><a href="/webshop-author-services">Webshop Author Services</a></li>
+      </ul>
+   </li>
+</ul></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget pageBody none  widget-none" id="pageBody">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-heading none  widget-none" id="e4d07a10-426b-4f41-b7d7-c8860f7c4afa">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><div class="page-heading">
+    <h1>Archive</h1>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-tabs none  widget-  widget-compact-all" id="1a8742c0-41a6-4e30-82f0-a2f579a9c4c2">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-  body-compact-all"><div class="tabs tabs-widget"  aria-relevant="additions" role="tabpanel">
+
+    
+    <ul class="tab-nav" role="tablist">
+        
+            
+            <li id="b6de7b7c-de82-45a5-9538-313dd15c6659" class="active" role="tab" aria-controls="1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-b6de7b7c-de82-45a5-9538-313dd15c6659">
+                
+                        <a href="#1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-b6de7b7c-de82-45a5-9538-313dd15c6659" title="load Browse List of Issues">Browse List of Issues</a>
+                    
+            </li>
+        
+            
+            <li id="58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" class="" role="tab" aria-controls="1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a">
+                
+                        <a href="#1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" title="load Browse by Cover">Browse by Cover</a>
+                    
+            </li>
+        
+    </ul>
+    <div class="tab-content">
+        
+            
+            
+                <div aria-labelledby="b6de7b7c-de82-45a5-9538-313dd15c6659" role="tabpanel" class="tab-pane active" id="1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-b6de7b7c-de82-45a5-9538-313dd15c6659">
+                    <div class="" data-pb-dropzone="tab-b6de7b7c-de82-45a5-9538-313dd15c6659" data-pb-dropzone-name="Browse List of Issues">
+                        
+                            
+                                
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget listOfIssues none  widget-none  widget-compact-all" id="14602d51-93c2-4a08-ac06-050ec31e8707">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="loi " data-context=";website:website:cell-site;wgroup:string:Default Website Group;pageGroup:string:Publication Page;page:string:List of Issues;journal:journal:cell;product:product:elsevier:product:cell" data-widget-id="14602d51-93c2-4a08-ac06-050ec31e8707" data-journal-code="cell">
+          
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=201&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_201" name="loi_decade_201" class="collapsed">2010 - Present</a>
+         </li>
+        <li data-decade="201">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=200&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_200" name="loi_decade_200" class="expanded">2000 - 2009</a>
+         </li>
+        <li data-decade="200">
+            <div class="openArchiveLabel"> <div class="widget-header">Open Archive</div> <p> Free Access to archived material</p> </div> <ul class="OpenArchiveIssues"> <li class="group group-header"> <a href="/archive?decade=200&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_200" name="loi_decade_200" class="expanded">2000 - 2009</a> </li> <li data-decade="200"> <ul> <li class="group volume-header"><h3><span>Volume 139</span></h3> <h2>(2009)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0026-7" class="issueLinkCon"> <strong> December 24, 2009 </strong> Issue 7, p1199-1376</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0025-5" class="issueLinkCon"> <strong> December 11, 2009 </strong> Issue 6, p1025-1198</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0024-3" class="issueLinkCon"> <strong> November 25, 2009 </strong> Issue 5, p831-1024</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0023-1" class="issueLinkCon"> <strong> November 13, 2009 </strong> Issue 4, p635-830</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0022-X" class="issueLinkCon"> <strong> October 30, 2009 </strong> Issue 3, p441-634</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0021-8" class="issueLinkCon"> <strong> October 16, 2009 </strong> Issue 2, p213-440</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0020-6" class="issueLinkCon"> <strong> October 2, 2009 </strong> Issue 1, p1-212</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 138</span></h3> <h2>(2009)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0019-X" class="issueLinkCon"> <strong> September 18, 2009 </strong> Issue 6, p1035-1248</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0018-8" class="issueLinkCon"> <strong> September 4, 2009 </strong> Issue 5, p809-1034</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0017-6" class="issueLinkCon"> <strong> August 21, 2009 </strong> Issue 4, p607-808</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0016-4" class="issueLinkCon"> <strong> August 7, 2009 </strong> Issue 3, p405-606</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0015-2" class="issueLinkCon"> <strong> July 23, 2009 </strong> Issue 2, p211-404</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0014-0" class="issueLinkCon"> <strong> July 10, 2009 </strong> Issue 1, p1-210</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 137</span></h3> <h2>(2009)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0013-9" class="issueLinkCon"> <strong> June 26, 2009 </strong> Issue 7, p1161-1358</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0012-7" class="issueLinkCon"> <strong> June 12, 2009 </strong> Issue 6, p975-1160</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0011-5" class="issueLinkCon"> <strong> May 29, 2009 </strong> Issue 5, p785-974</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0010-3" class="issueLinkCon"> <strong> May 15, 2009 </strong> Issue 4, p587-784</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0009-7" class="issueLinkCon"> <strong> May 1, 2009 </strong> Issue 3, p383-586</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0008-5" class="issueLinkCon"> <strong> April 17, 2009 </strong> Issue 2, p183-382</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0007-3" class="issueLinkCon"> <strong> April 3, 2009 </strong> Issue 1, p1-182</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 136</span></h3> <h2>(2009)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0006-1" class="issueLinkCon"> <strong> March 20, 2009 </strong> Issue 6, p979-1172</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0005-X" class="issueLinkCon"> <strong> March 6, 2009 </strong> Issue 5, p795-978</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0004-8" class="issueLinkCon"> <strong> February 20, 2009 </strong> Issue 4, p567-794</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0003-6" class="issueLinkCon"> <strong> February 6, 2009 </strong> Issue 3, p381-566</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(09)X0002-4" class="issueLinkCon"> <strong> January 23, 2009 </strong> Issue 2, p189-380</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0029-7" class="issueLinkCon"> <strong> January 9, 2009 </strong> Issue 1, p1-188</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 135</span></h3> <h2>(2008)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0028-5" class="issueLinkCon"> <strong> December 26, 2008 </strong> Issue 7, p1145-1324</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0027-3" class="issueLinkCon"> <strong> December 12, 2008 </strong> Issue 6, p975-1144</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0026-1" class="issueLinkCon"> <strong> November 28, 2008 </strong> Issue 5, p765-974</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0025-X" class="issueLinkCon"> <strong> November 14, 2008 </strong> Issue 4, p573-764</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0024-8" class="issueLinkCon"> <strong> October 31, 2008 </strong> Issue 3, p369-572</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0023-6" class="issueLinkCon"> <strong> October 17, 2008 </strong> Issue 2, p193-368</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0022-4" class="issueLinkCon"> <strong> October 3, 2008 </strong> Issue 1, p1-192</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 134</span></h3> <h2>(2008)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0021-2" class="issueLinkCon"> <strong> September 19, 2008 </strong> Issue 6, p889-1080</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0020-0" class="issueLinkCon"> <strong> September 5, 2008 </strong> Issue 5, p695-888</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0019-4" class="issueLinkCon"> <strong> August 22, 2008 </strong> Issue 4, p549-694</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0018-2" class="issueLinkCon"> <strong> August 8, 2008 </strong> Issue 3, p367-548</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0017-0" class="issueLinkCon"> <strong> July 25, 2008 </strong> Issue 2, p191-366</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0016-9" class="issueLinkCon"> <strong> July 11, 2008 </strong> Issue 1, p1-190</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 133</span></h3> <h2>(2008)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0015-7" class="issueLinkCon"> <strong> June 27, 2008 </strong> Issue 7, p1119-1292</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0014-5" class="issueLinkCon"> <strong> June 13, 2008 </strong> Issue 6, p931-1118</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0013-3" class="issueLinkCon"> <strong> May 30, 2008 </strong> Issue 5, p743-930</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0012-1" class="issueLinkCon"> <strong> May 16, 2008 </strong> Issue 4, p551-742</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0011-X" class="issueLinkCon"> <strong> May 2, 2008 </strong> Issue 3, p379-550</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0010-8" class="issueLinkCon"> <strong> April 18, 2008 </strong> Issue 2, p193-378</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0009-1" class="issueLinkCon"> <strong> April 4, 2008 </strong> Issue 1, p1-192</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 132</span></h3> <h2>(2008)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0008-X" class="issueLinkCon"> <strong> March 21, 2008 </strong> Issue 6, p901-1062</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0007-8" class="issueLinkCon"> <strong> March 7, 2008 </strong> Issue 5, p713-900</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0006-6" class="issueLinkCon"> <strong> February 22, 2008 </strong> Issue 4, p501-712</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0005-4" class="issueLinkCon"> <strong> February 8, 2008 </strong> Issue 3, p325-500</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0735-4" class="issueLinkCon"> <strong> January 25, 2008 </strong> Issue 2, p163-324</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(08)X0734-2" class="issueLinkCon"> <strong> January 11, 2008 </strong> Issue 1, p1-162</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 131</span></h3> <h2>(2007)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0733-5" class="issueLinkCon"> <strong> December 28, 2007 </strong> Issue 7, p1205-1378</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0732-3" class="issueLinkCon"> <strong> December 14, 2007 </strong> Issue 6, p1019-1204</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0731-1" class="issueLinkCon"> <strong> November 30, 2007 </strong> Issue 5, p823-1018</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0730-X" class="issueLinkCon"> <strong> November 16, 2007 </strong> Issue 4, p613-822</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0729-3" class="issueLinkCon"> <strong> November 2, 2007 </strong> Issue 3, p421-612</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0728-1" class="issueLinkCon"> <strong> October 19, 2007 </strong> Issue 2, p193-420</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0727-X" class="issueLinkCon"> <strong> October 5, 2007 </strong> Issue 1, p1-192</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 130</span></h3> <h2>(2007)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0726-8" class="issueLinkCon"> <strong> September 21, 2007 </strong> Issue 6, p959-1160</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0725-6" class="issueLinkCon"> <strong> September 7, 2007 </strong> Issue 5, p757-958</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0724-4" class="issueLinkCon"> <strong> August 24, 2007 </strong> Issue 4, p571-756</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0723-2" class="issueLinkCon"> <strong> August 10, 2007 </strong> Issue 3, p387-570</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0722-0" class="issueLinkCon"> <strong> July 27, 2007 </strong> Issue 2, p193-386</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0721-9" class="issueLinkCon"> <strong> July 13, 2007 </strong> Issue 1, p1-192</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 129</span></h3> <h2>(2007)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0720-7" class="issueLinkCon"> <strong> June 29, 2007 </strong> Issue 7, p1231-1430</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0719-0" class="issueLinkCon"> <strong> June 15, 2007 </strong> Issue 6, p1025-1230</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0718-9" class="issueLinkCon"> <strong> June 1, 2007 </strong> Issue 5, p839-1024</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0717-7" class="issueLinkCon"> <strong> May 18, 2007 </strong> Issue 4, p633-838</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0716-5" class="issueLinkCon"> <strong> May 4, 2007 </strong> Issue 3, p435-632</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0715-3" class="issueLinkCon"> <strong> April 20, 2007 </strong> Issue 2, p221-434</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0714-1" class="issueLinkCon"> <strong> April 6, 2007 </strong> Issue 1, p1-220</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 128</span></h3> <h2>(2007)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0713-X" class="issueLinkCon"> <strong> March 23, 2007 </strong> Issue 6, p1015-1246</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0712-8" class="issueLinkCon"> <strong> March 9, 2007 </strong> Issue 5, p803-1014</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0711-6" class="issueLinkCon"> <strong> February 23, 2007 </strong> Issue 4, p627-802</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0710-4" class="issueLinkCon"> <strong> February 9, 2007 </strong> Issue 3, p413-626</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0709-8" class="issueLinkCon"> <strong> January 26, 2007 </strong> Issue 2, p213-412</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(07)X0708-6" class="issueLinkCon"> <strong> January 12, 2007 </strong> Issue 1, p1-212</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 127</span></h3> <h2>(2006)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0707-9" class="issueLinkCon"> <strong> December 29, 2006 </strong> Issue 7, p1287-1468</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0706-7" class="issueLinkCon"> <strong> December 15, 2006 </strong> Issue 6, p1071-1286</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0705-5" class="issueLinkCon"> <strong> December 1, 2006 </strong> Issue 5, p859-1072</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0704-3" class="issueLinkCon"> <strong> November 17, 2006 </strong> Issue 4, p649-858</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0703-1" class="issueLinkCon"> <strong> November 3, 2006 </strong> Issue 3, p435-648</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0702-X" class="issueLinkCon"> <strong> October 20, 2006 </strong> Issue 2, p227-434</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0701-8" class="issueLinkCon"> <strong> October 6, 2006 </strong> Issue 1, p1-226</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 126</span></h3> <h2>(2006)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0700-6" class="issueLinkCon"> <strong> September 22, 2006 </strong> Issue 6, p1005-1218</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0699-2" class="issueLinkCon"> <strong> September 8, 2006 </strong> Issue 5, p813-1004</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0698-0" class="issueLinkCon"> <strong> August 25, 2006 </strong> Issue 4, p627-812</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0697-9" class="issueLinkCon"> <strong> August 11, 2006 </strong> Issue 3, p427-626</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0696-7" class="issueLinkCon"> <strong> July 28, 2006 </strong> Issue 2, p219-426</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0695-5" class="issueLinkCon"> <strong> July 14, 2006 </strong> Issue 1, p1-218</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 125</span></h3> <h2>(2006)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0694-3" class="issueLinkCon"> <strong> June 30, 2006 </strong> Issue 7, p1207-1400</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0693-1" class="issueLinkCon"> <strong> June 13, 2006 </strong> Issue 6, p1015-1206</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0692-X" class="issueLinkCon"> <strong> June 2, 2006 </strong> Issue 5, p815-1014</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0691-8" class="issueLinkCon"> <strong> May 19, 2006 </strong> Issue 4, p621-814</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0690-6" class="issueLinkCon"> <strong> May 5, 2006 </strong> Issue 3, p399-620</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0689-X" class="issueLinkCon"> <strong> April 21, 2006 </strong> Issue 2, p201-398</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0688-8" class="issueLinkCon"> <strong> April 7, 2006 </strong> Issue 1, p1-200</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 124</span></h3> <h2>(2006)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0687-6" class="issueLinkCon"> <strong> March 24, 2006 </strong> Issue 6, p1089-1302</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0686-4" class="issueLinkCon"> <strong> March 10, 2006 </strong> Issue 5, p865-1088</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0685-2" class="issueLinkCon"> <strong> February 24, 2006 </strong> Issue 4, p649-864</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0684-0" class="issueLinkCon"> <strong> February 10, 2006 </strong> Issue 3, p437-648</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0683-9" class="issueLinkCon"> <strong> January 27, 2006 </strong> Issue 2, p221-436</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(06)X0682-7" class="issueLinkCon"> <strong> January 13, 2006 </strong> Issue 1, p1-220</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 123</span></h3> <h2>(2005)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0681-X" class="issueLinkCon"> <strong> December 29, 2005 </strong> Issue 7, p1161-1360</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0680-8" class="issueLinkCon"> <strong> December 16, 2005 </strong> Issue 6, p959-1160</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0679-1" class="issueLinkCon"> <strong> December 2, 2005 </strong> Issue 5, p713-958</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0678-X" class="issueLinkCon"> <strong> November 18, 2005 </strong> Issue 4, p539-712</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0677-8" class="issueLinkCon"> <strong> November 4, 2005 </strong> Issue 3, p359-538</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0676-6" class="issueLinkCon"> <strong> October 21, 2005 </strong> Issue 2, p173-358</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0675-4" class="issueLinkCon"> <strong> October 7, 2005 </strong> Issue 1, p1-172</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 122</span></h3> <h2>(2005)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0674-2" class="issueLinkCon"> <strong> September 23, 2005 </strong> Issue 6, p817-970</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0673-0" class="issueLinkCon"> <strong> September 9, 2005 </strong> Issue 5, p645-816</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0672-9" class="issueLinkCon"> <strong> August 26, 2005 </strong> Issue 4, p487-644</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0671-7" class="issueLinkCon"> <strong> August 12, 2005 </strong> Issue 3, p317-486</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0670-5" class="issueLinkCon"> <strong> July 29, 2005 </strong> Issue 2, p147-316</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0669-9" class="issueLinkCon"> <strong> July 15, 2005 </strong> Issue 1, p1-146</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 121</span></h3> <h2>(2005)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0668-7" class="issueLinkCon"> <strong> July 1, 2005 </strong> Issue 7, p963-1122</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0667-5" class="issueLinkCon"> <strong> June 17, 2005 </strong> Issue 6, p811-962</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0666-3" class="issueLinkCon"> <strong> June 3, 2005 </strong> Issue 5, p659-810</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(05)X0665-1" class="issueLinkCon"> <strong> May 20, 2005 </strong> Issue 4, p495-658</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0666-6" class="issueLinkCon"> <strong> May 6, 2005 </strong> Issue 3, p319-494</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0665-4" class="issueLinkCon"> <strong> April 22, 2005 </strong> Issue 2, p155-318</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0664-2" class="issueLinkCon"> <strong> April 8, 2005 </strong> Issue 1, p1-154</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 120</span></h3> <h2>(2005)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0663-0" class="issueLinkCon"> <strong> March 25, 2005 </strong> Issue 6, p729-900</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0662-9" class="issueLinkCon"> <strong> March 11, 2005 </strong> Issue 5, p569-728</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0660-5" class="issueLinkCon"> <strong> February 25, 2005 </strong> Issue 4, p435-568</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0659-9" class="issueLinkCon"> <strong> February 11, 2005 </strong> Issue 3, p287-434</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0658-7" class="issueLinkCon"> <strong> January 28, 2005 </strong> Issue 2, p153-285</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0657-5" class="issueLinkCon"> <strong> January 14, 2005 </strong> Issue 1, p1-151</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 119</span></h3> <h2>(2004)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0655-1" class="issueLinkCon"> <strong> December 29, 2004 </strong> Issue 7, p901-1057</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0653-8" class="issueLinkCon"> <strong> December 17, 2004 </strong> Issue 6, p733-900</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0647-2" class="issueLinkCon"> <strong> November 24, 2004 </strong> Issue 5, p579-732</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0643-5" class="issueLinkCon"> <strong> November 12, 2004 </strong> Issue 4, p447-578</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0639-3" class="issueLinkCon"> <strong> October 29, 2004 </strong> Issue 3, p311-445</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0638-1" class="issueLinkCon"> <strong> October 15, 2004 </strong> Issue 2, p147-309</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0637-X" class="issueLinkCon"> <strong> October 1, 2004 </strong> Issue 1, p1-145</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 118</span></h3> <h2>(2004)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0633-2" class="issueLinkCon"> <strong> September 17, 2004 </strong> Issue 6, p665-806</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0632-0" class="issueLinkCon"> <strong> September 3, 2004 </strong> Issue 5, p529-663</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0630-7" class="issueLinkCon"> <strong> August 20, 2004 </strong> Issue 4, p403-528</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0629-0" class="issueLinkCon"> <strong> August 6, 2004 </strong> Issue 3, p271-401</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0625-3" class="issueLinkCon"> <strong> July 23, 2004 </strong> Issue 2, p139-270</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0609-5" class="issueLinkCon"> <strong> July 9, 2004 </strong> Issue 1, p1-138</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 117</span></h3> <h2>(2004)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0606-X" class="issueLinkCon"> <strong> June 25, 2004 </strong> Issue 7, p849-991</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0601-0" class="issueLinkCon"> <strong> June 11, 2004 </strong> Issue 6, p689-847</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0600-9" class="issueLinkCon"> <strong> May 28, 2004 </strong> Issue 5, p555-687</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0595-8" class="issueLinkCon"> <strong> May 14, 2004 </strong> Issue 4, p417-553</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0591-0" class="issueLinkCon"> <strong> April 30, 2004 </strong> Issue 3, p279-415</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0442-4" class="issueLinkCon"> <strong> April 16, 2004 </strong> Issue 2, p145-277</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0435-7" class="issueLinkCon"> <strong> April 2, 2004 </strong> Issue 1, p1-143</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 116</span></h3> <h2>(2004)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0432-1" class="issueLinkCon"> <strong> March 19, 2004 </strong> Issue 6, p763-895</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0430-8" class="issueLinkCon"> <strong> March 5, 2004 </strong> Issue 5, p631-762</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0429-1" class="issueLinkCon"> <strong> February 20, 2004 </strong> Issue 4, p483-629</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0431-X" class="issueLinkCon"> <strong> February 6, 2004 </strong> Issue 3, p351-481</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0428-X" class="issueLinkCon"> <strong> January 23, 2004 </strong> Issue 2, p141-350</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0593-4" class="issueLinkCon"> <strong> January 23, 2004&nbsp;Supplement 2 </strong> S1-S123</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0427-8" class="issueLinkCon"> <strong> January 9, 2004 </strong> Issue 1, p1-140</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 115</span></h3> <h2>(2003)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0426-6" class="issueLinkCon"> <strong> December 26, 2003 </strong> Issue 7, p767-904</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0425-4" class="issueLinkCon"> <strong> December 12, 2003 </strong> Issue 6, p641-766</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0404-7" class="issueLinkCon"> <strong> November 26, 2003 </strong> Issue 5, p507-640</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0390-X" class="issueLinkCon"> <strong> November 14, 2003 </strong> Issue 4, p369-505</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0391-1" class="issueLinkCon"> <strong> October 31, 2003 </strong> Issue 3, p243-368</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0320-0" class="issueLinkCon"> <strong> October 17, 2003 </strong> Issue 2, p127-242</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0237-1" class="issueLinkCon"> <strong> October 3, 2003 </strong> Issue 1, p1-126</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 114</span></h3> <h2>(2003)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0202-4" class="issueLinkCon"> <strong> September 19, 2003 </strong> Issue 6, p655-790</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0201-2" class="issueLinkCon"> <strong> September 5, 2003 </strong> Issue 5, p532-654</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0200-0" class="issueLinkCon"> <strong> August 22, 2003 </strong> Issue 4, p395-530</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0199-7" class="issueLinkCon"> <strong> August 8, 2003 </strong> Issue 3, p271-394</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0198-5" class="issueLinkCon"> <strong> July 25, 2003 </strong> Issue 2, p147-270</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0197-3" class="issueLinkCon"> <strong> July 11, 2003 </strong> Issue 1, p1-146</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 113</span></h3> <h2>(2003)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0196-1" class="issueLinkCon"> <strong> June 27, 2003 </strong> Issue 7, p811-944</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0195-X" class="issueLinkCon"> <strong> June 13, 2003 </strong> Issue 6, p671-810</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0194-8" class="issueLinkCon"> <strong> May 30, 2003 </strong> Issue 5, p551-670</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0193-6" class="issueLinkCon"> <strong> May 16, 2003 </strong> Issue 4, p421-550</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0192-4" class="issueLinkCon"> <strong> May 2, 2003 </strong> Issue 3, p275-420</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0191-2" class="issueLinkCon"> <strong> April 18, 2003 </strong> Issue 2, p139-274</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0190-0" class="issueLinkCon"> <strong> April 4, 2003 </strong> Issue 1, p1-138</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 112</span></h3> <h2>(2003)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0189-4" class="issueLinkCon"> <strong> March 21, 2003 </strong> Issue 6, p737-874</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0188-2" class="issueLinkCon"> <strong> March 7, 2003 </strong> Issue 5, p589-736</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0187-0" class="issueLinkCon"> <strong> February 21, 2003 </strong> Issue 4, p403-588</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0186-9" class="issueLinkCon"> <strong> February 7, 2003 </strong> Issue 3, p283-402</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0185-7" class="issueLinkCon"> <strong> January 24, 2003 </strong> Issue 2, p141-282</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0184-5" class="issueLinkCon"> <strong> January 10, 2003 </strong> Issue 1, p1-140</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 111</span></h3> <h2>(2002)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0182-1" class="issueLinkCon"> <strong> December 27, 2002 </strong> Issue 7, p919-1056</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0183-3" class="issueLinkCon"> <strong> December 13, 2002 </strong> Issue 6, p759-918</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0181-X" class="issueLinkCon"> <strong> November 27, 2002 </strong> Issue 5, p603-758</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0180-8" class="issueLinkCon"> <strong> November 15, 2002 </strong> Issue 4, p445-602</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0179-1" class="issueLinkCon"> <strong> November 1, 2002 </strong> Issue 3, p281-444</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0178-X" class="issueLinkCon"> <strong> October 18, 2002 </strong> Issue 2, p143-280</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0177-8" class="issueLinkCon"> <strong> October 4, 2002 </strong> Issue 1, p1-142</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 110</span></h3> <h2>(2002)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0176-6" class="issueLinkCon"> <strong> September 20, 2002 </strong> Issue 6, p661-802</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0175-4" class="issueLinkCon"> <strong> September 6, 2002 </strong> Issue 5, p537-660</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0174-2" class="issueLinkCon"> <strong> August 23, 2002 </strong> Issue 4, p399-536</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0173-0" class="issueLinkCon"> <strong> August 9, 2002 </strong> Issue 3, p273-398</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0172-9" class="issueLinkCon"> <strong> July 26, 2002 </strong> Issue 2, p135-272</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0171-7" class="issueLinkCon"> <strong> July 12, 2002 </strong> Issue 1, p1-134</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 109</span></h3> <h2>(2002)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0170-5" class="issueLinkCon"> <strong> June 28, 2002 </strong> Issue 7, p793-924</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0169-9" class="issueLinkCon"> <strong> June 14, 2002 </strong> Issue 6, p663-792</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0168-7" class="issueLinkCon"> <strong> May 31, 2002 </strong> Issue 5, p537-662</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0167-5" class="issueLinkCon"> <strong> May 17, 2002 </strong> Issue 4, p409-536</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0166-3" class="issueLinkCon"> <strong> May 3, 2002 </strong> Issue 3, p267-408</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0164-X" class="issueLinkCon"> <strong> April 19, 2002&nbsp;Supplement 1 </strong> Issue 2, S1-S132</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0165-1" class="issueLinkCon"> <strong> April 19, 2002 </strong> Issue 2, p137-266</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0162-6" class="issueLinkCon"> <strong> April 5, 2002 </strong> Issue 1, p1-136</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 108</span></h3> <h2>(2002)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0163-8" class="issueLinkCon"> <strong> March 22, 2002 </strong> Issue 6, p727-876</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0160-2" class="issueLinkCon"> <strong> March 8, 2002 </strong> Issue 5, p583-726</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0161-4" class="issueLinkCon"> <strong> February 22, 2002 </strong> Issue 4, p431-582</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0159-6" class="issueLinkCon"> <strong> February 8, 2002 </strong> Issue 3, p297-430</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0158-4" class="issueLinkCon"> <strong> January 25, 2002 </strong> Issue 2, p135-296</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0157-2" class="issueLinkCon"> <strong> January 11, 2002 </strong> Issue 1, p1-134</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 107</span></h3> <h2>(2001)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0610-1" class="issueLinkCon"> <strong> December 28, 2001 </strong> Issue 7, p815-942</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0155-9" class="issueLinkCon"> <strong> December 14, 2001 </strong> Issue 6, p689-813</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0154-7" class="issueLinkCon"> <strong> November 30, 2001 </strong> Issue 5, p551-688</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0153-5" class="issueLinkCon"> <strong> November 16, 2001 </strong> Issue 4, p411-550</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0152-3" class="issueLinkCon"> <strong> November 2, 2001 </strong> Issue 3, p259-410</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0151-1" class="issueLinkCon"> <strong> October 19, 2001 </strong> Issue 2, p125-258</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0150-X" class="issueLinkCon"> <strong> October 5, 2001 </strong> Issue 1, p1-124</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 106</span></h3> <h2>(2001)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0149-3" class="issueLinkCon"> <strong> September 21, 2001 </strong> Issue 6, p647-796</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0147-X" class="issueLinkCon"> <strong> September 7, 2001 </strong> Issue 5, p523-646</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0146-8" class="issueLinkCon"> <strong> August 24, 2001 </strong> Issue 4, p391-522</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0144-4" class="issueLinkCon"> <strong> August 10, 2001 </strong> Issue 3, p255-390</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0145-6" class="issueLinkCon"> <strong> July 27, 2001 </strong> Issue 2, p129-253</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0143-2" class="issueLinkCon"> <strong> July 13, 2001 </strong> Issue 1, p1-128</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 105</span></h3> <h2>(2001)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0141-9" class="issueLinkCon"> <strong> June 29, 2001 </strong> Issue 7, p817-972</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0142-0" class="issueLinkCon"> <strong> June 15, 2001 </strong> Issue 6, p697-816</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0140-7" class="issueLinkCon"> <strong> June 1, 2001 </strong> Issue 5, p559-696</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0139-0" class="issueLinkCon"> <strong> May 18, 2001 </strong> Issue 4, p417-558</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0138-9" class="issueLinkCon"> <strong> May 4, 2001 </strong> Issue 3, p293-416</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0137-7" class="issueLinkCon"> <strong> April 20, 2001 </strong> Issue 2, p161-292</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0020-7" class="issueLinkCon"> <strong> April 6, 2001 </strong> Issue 1, p1-160</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 104</span></h3> <h2>(2001)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0019-0" class="issueLinkCon"> <strong> March 23, 2001 </strong> Issue 6, p801-948</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0018-9" class="issueLinkCon"> <strong> March 9, 2001 </strong> Issue 5, p631-800</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0017-7" class="issueLinkCon"> <strong> February 23, 2001 </strong> Issue 4, p465-629</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0016-5" class="issueLinkCon"> <strong> February 9, 2001 </strong> Issue 3, p321-464</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0015-3" class="issueLinkCon"> <strong> January 26, 2001 </strong> Issue 2, p173-320</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0014-1" class="issueLinkCon"> <strong> January 12, 2001 </strong> Issue 1, p1-172</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 103</span></h3> <h2>(2000)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0013-X" class="issueLinkCon"> <strong> December 22, 2000 </strong> Issue 7, p993-1168</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0012-8" class="issueLinkCon"> <strong> December 8, 2000 </strong> Issue 6, p829-991</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0011-6" class="issueLinkCon"> <strong> November 22, 2000 </strong> Issue 5, p691-827</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0604-6" class="issueLinkCon"> <strong> November 10, 2000 </strong> Issue 4, p537-689</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0009-8" class="issueLinkCon"> <strong> October 27, 2000 </strong> Issue 3, p363-535</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0008-6" class="issueLinkCon"> <strong> October 13, 2000 </strong> Issue 2, p181-361</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0007-4" class="issueLinkCon"> <strong> September 29, 2000 </strong> Issue 1, p1-179</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 102</span></h3> <h2>(2000)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0005-0" class="issueLinkCon"> <strong> September 15, 2000 </strong> Issue 6, p705-862</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0006-2" class="issueLinkCon"> <strong> September 1, 2000 </strong> Issue 5, p541-704</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0004-9" class="issueLinkCon"> <strong> August 18, 2000 </strong> Issue 4, p399-539</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0003-7" class="issueLinkCon"> <strong> August 4, 2000 </strong> Issue 3, p267-397</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0002-5" class="issueLinkCon"> <strong> July 21, 2000 </strong> Issue 2, p127-265</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0001-3" class="issueLinkCon"> <strong> July 7, 2000 </strong> Issue 1, p1-126</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 101</span></h3> <h2>(2000)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0128-6" class="issueLinkCon"> <strong> June 23, 2000 </strong> Issue 7, p685-811</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0125-0" class="issueLinkCon"> <strong> June 9, 2000 </strong> Issue 6, p569-684</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0124-9" class="issueLinkCon"> <strong> May 26, 2000 </strong> Issue 5, p447-567</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0120-1" class="issueLinkCon"> <strong> May 12, 2000 </strong> Issue 4, p341-445</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0118-3" class="issueLinkCon"> <strong> April 28, 2000 </strong> Issue 3, p235-340</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0113-4" class="issueLinkCon"> <strong> April 14, 2000 </strong> Issue 2, p115-233</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0109-2" class="issueLinkCon"> <strong> March 31, 2000 </strong> Issue 1, p1-114</a> </div> </li> </ul></li> <li class="group volume-header"><h3><span>Volume 100</span></h3> <h2>(2000)</h2></li> <li> <ul> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0106-7" class="issueLinkCon"> <strong> March 17, 2000 </strong> Issue 6, p599-711</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0103-1" class="issueLinkCon"> <strong> March 3, 2000 </strong> Issue 5, p491-597</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0099-2" class="issueLinkCon"> <strong> February 18, 2000 </strong> Issue 4, p387-489</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0592-2" class="issueLinkCon"> <strong> February 18, 2000&nbsp;Supplement </strong> p1-55</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0095-5" class="issueLinkCon"> <strong> February 4, 2000 </strong> Issue 3, p289-386</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0093-1" class="issueLinkCon"> <strong> January 21, 2000 </strong> Issue 2, p185-288</a> </div> </li> <li> <div id="issueName"> <a href="/cell/issue?pii=S0092-8674(00)X0090-6" class="issueLinkCon"> <strong> January 7, 2000 </strong> Issue 1, p1-183</a> </div> </li> </ul> </li> </ul> </li> </ul>
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=199&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_199" name="loi_decade_199" class="collapsed">1990 - 1999</a>
+         </li>
+        <li data-decade="199">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=198&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_198" name="loi_decade_198" class="collapsed">1980 - 1989</a>
+         </li>
+        <li data-decade="198">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=197&amp;widget=14602d51-93c2-4a08-ac06-050ec31e8707#loi_decade_197" name="loi_decade_197" class="collapsed">1970 - 1979</a>
+         </li>
+        <li data-decade="197">
+            
+
+        </li>
+    </ul>
+
+    </div></div>
+        </div>
+    </div>
+
+                            
+                        
+                    </div>
+                </div>
+            
+        
+            
+            
+                <div aria-labelledby="58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" role="tabpanel" class="tab-pane " id="1a8742c0-41a6-4e30-82f0-a2f579a9c4c2-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a">
+                    <div class="" data-pb-dropzone="tab-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" data-pb-dropzone-name="Browse by Cover">
+                        
+                            
+                                
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget coverIssueSelector none  widget-none" id="9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><div class="coverIssueSelectorContainer">
+    <div class="yearContainer issueSelector">
+        
+            <div class="loi" data-context=";website:website:cell-site;wgroup:string:Default Website Group;pageGroup:string:Publication Page;page:string:List of Issues;journal:journal:cell;product:product:elsevier:product:cell" data-widget-id="9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6" data-journal-code="cell">
+                
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=201&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_201" name="loi_decade_201coverIssueSelector" class="collapsed">2010 - Present</a>
+         </li>
+        <li data-decade="201">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=200&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_200" name="loi_decade_200coverIssueSelector" class="expanded">2000 - 2009</a>
+         </li>
+        <li data-decade="200">
+            <div class="openArchiveLabel"> <div class="widget-header">Open Archive</div> <p> Free Access to archived material</p> </div> <ul class="OpenArchiveIssues"> <li class="group group-header"> <a href="/archive?decade=200&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_200" name="loi_decade_200coverIssueSelector" class="expanded">2000 - 2009</a> </li> <li data-decade="200"> <ul> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(139,true)"> <li class="group"><span>Volume 139</span> (2009)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(138,true)"> <li class="group"><span>Volume 138</span> (2009)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(137,true)"> <li class="group"><span>Volume 137</span> (2009)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(136,true)"> <li class="group"><span>Volume 136</span> (2009)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(135,true)"> <li class="group"><span>Volume 135</span> (2008)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(134,true)"> <li class="group"><span>Volume 134</span> (2008)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(133,true)"> <li class="group"><span>Volume 133</span> (2008)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(132,true)"> <li class="group"><span>Volume 132</span> (2008)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(131,true)"> <li class="group"><span>Volume 131</span> (2007)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(130,true)"> <li class="group"><span>Volume 130</span> (2007)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(129,true)"> <li class="group"><span>Volume 129</span> (2007)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(128,true)"> <li class="group"><span>Volume 128</span> (2007)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(127,true)"> <li class="group"><span>Volume 127</span> (2006)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(126,true)"> <li class="group"><span>Volume 126</span> (2006)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(125,true)"> <li class="group"><span>Volume 125</span> (2006)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(124,true)"> <li class="group"><span>Volume 124</span> (2006)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(123,true)"> <li class="group"><span>Volume 123</span> (2005)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(122,true)"> <li class="group"><span>Volume 122</span> (2005)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(121,true)"> <li class="group"><span>Volume 121</span> (2005)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(120,true)"> <li class="group"><span>Volume 120</span> (2005)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(119,true)"> <li class="group"><span>Volume 119</span> (2004)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(118,true)"> <li class="group"><span>Volume 118</span> (2004)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(117,true)"> <li class="group"><span>Volume 117</span> (2004)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(116,true)"> <li class="group"><span>Volume 116</span> (2004)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(115,true)"> <li class="group"><span>Volume 115</span> (2003)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(114,true)"> <li class="group"><span>Volume 114</span> (2003)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(113,true)"> <li class="group"><span>Volume 113</span> (2003)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(112,true)"> <li class="group"><span>Volume 112</span> (2003)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(111,true)"> <li class="group"><span>Volume 111</span> (2002)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(110,true)"> <li class="group"><span>Volume 110</span> (2002)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(109,true)"> <li class="group"><span>Volume 109</span> (2002)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(108,true)"> <li class="group"><span>Volume 108</span> (2002)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(107,true)"> <li class="group"><span>Volume 107</span> (2001)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(106,true)"> <li class="group"><span>Volume 106</span> (2001)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(105,true)"> <li class="group"><span>Volume 105</span> (2001)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(104,true)"> <li class="group"><span>Volume 104</span> (2001)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(103,true)"> <li class="group"><span>Volume 103</span> (2000)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(102,true)"> <li class="group"><span>Volume 102</span> (2000)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(101,true)"> <li class="group"><span>Volume 101</span> (2000)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul></li> <a href="#" class="coverIssueSelector" onclick="getIssuesByVolumeLOIView(100,true)"> <li class="group"><span>Volume 100</span> (2000)</li> </a> <li> <ul> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </ul> </li> </ul> </li> </ul>
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=199&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_199" name="loi_decade_199coverIssueSelector" class="collapsed">1990 - 1999</a>
+         </li>
+        <li data-decade="199">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=198&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_198" name="loi_decade_198coverIssueSelector" class="collapsed">1980 - 1989</a>
+         </li>
+        <li data-decade="198">
+            
+
+        </li>
+    </ul>
+
+    <ul>
+        <li class="group
+        
+                group-header
+            
+        ">
+            <a href="/archive?decade=197&amp;widget=9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6#loi_decade_197" name="loi_decade_197coverIssueSelector" class="collapsed">1970 - 1979</a>
+         </li>
+        <li data-decade="197">
+            
+
+        </li>
+    </ul>
+
+            </div>
+        
+    </div>
+    <div class="issuesContainer issueSelector">
+        <div class="ajaxLoader"></div>
+        <div class="content"></div>
+
+    </div>
+    <input type="hidden" name="journalCode" value="cell"/>
+    <input type="hidden" name="issueDisplayFilter" value="all-issues"/>
+    <input type="hidden" name="IssueCoverDispformat" value=""/>
+</div></div>
+        </div>
+    </div>
+
+                            
+                        
+                    </div>
+                </div>
+            
+        
+    </div>
+
+    
+
+</div></div>
+        </div>
+    </div>
+    </div>
+</div><!--end pagefulltext--></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget pageFooter none  widget-none  widget-compact-all" id="pageFooter">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="page-footer">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget literatumAd alignCenter  widget-  widget-compact-all" id="1b1160b8-27e8-43b7-ad30-0f90f3dd995d">
+        
+        
+            
+        
+
+        <div class="wrapped " id='Leaderboard bottom'>
+            
+            <div class="widget-body body body-  body-compact-all"><div class="pb-ad">
+            <!-- START Legacy Cell code that was requested to be maintained on Literatum -->
+<input type="hidden" id="hiddenOrderId" />
+<!-- END Legacy Cell code -->
+
+<script type="text/javascript">
+	var ord = Math.random()*10000000000000000;
+	document.getElementById("hiddenOrderId").value = ord;
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/Cell;pos=bottom;tile=1;sz=728x90;pii=;loggedin=no;ord='+ord+'?"><\/script>');
+</script>
+
+<noscript>
+	<a target="_blank" href="/action/clickThrough?id=2511&url=https%3A%2F%2Fad.doubleclick.net%2Fjump%2FCell.com%2FCell.com%2FCell%3Bpos%3Dbottom%3Btile%3D1%3Bsz%3D728x90%3Bord%3D95551%3F&loc=%2Fcell%2Farchive%3Fdecade%3D200%26amp%3Bwidget%3D9b2fd17b-0f3e-45e4-b79f-10a8d2dc51a6&pubId=40000018"><img border="0" alt="" src="https://ad.doubleclick.net/ad/Cell.com/Cell.com/Cell;pos=bottom;tile=1;sz=728x90;pii=;ord=95551?"/></a>
+</noscript>
+        </div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="4c68c2ea-a664-4f1b-85f8-6141b6cc4208">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_11_24">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="307e70c0-9a6b-4499-91dd-6a1f3d08798c">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_1_3">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="6d882f04-7afd-4089-aacc-29789516fb4a">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div style="margin-top: 20px; height: 220px; margin-left: 5px;">
+<h5>Quick Links</h5>
+<div class="twoCol" style="margin-top: 20px;">   
+<ul class="plainList" >   <li><a href="http://advertisers.cell.com"> Advertisers</a></li>   <li><a href="http://recruitmentads.cell.com">Recruitment Ads</a></li>   <li><a href="/contact">Contact Us</a></li>   <li><a href="/newsroom">Newsroom</a></li>  <li><a href="http://careers.cell.com">Careers</a></li>   <li><a href="http://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="blank">Terms & Conditions</a></li>   <li><a href="http://www.elsevier.com/privacypolicy" target="blank">Privacy Policy</a></li>
+ <li><a href="http://www.cell.com/journalreader" target="blank">Mobile</a></li>
+ </ul>
+</div>
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_2_3">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html alignLeft  widget-none  widget-compact-all" id="8933007c-6a42-4fa6-82a3-6c1c5e40dddf">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div style="margin-top: 20px; padding-left: 12px; border-left: 1px solid #9a9a9a; height: 220px;" >
+<h5>Research Journals</h5>
+<div class="twoCol" style="margin-top: 20px;">   
+<ul class="plainList">          
+<li> <a href="/cancer-cell/home" id="cancer-cell">Cancer Cell</a></li>              
+ <li> <a href="/cell/home" id="cell">Cell</a></li>               
+<li> <a href="/cell-host-microbe/home" id="cell-host-microbe">Cell Host &amp; Microbe</a></li>                            
+<li> <a href="/cell-metabolism/home" id="cell-metabolism">Cell Metabolism</a></li>               
+<li> <a href="/cell-reports/home" id="cell-reports">Cell Reports</a></li>               
+<li> <a href="/cell-stem-cell/home" id="cell-stem-cell">Cell Stem Cell</a></li>
+<li> <a href="/cell-systems/home" id="cell systems">Cell Systems</a></li>       
+</ul>   
+
+<ul class="plainList">  
+ <li> <a href="/chemistry-biology/home" id="chemistry-biology">Chemistry &amp; Biology</a></li>               
+<li> <a href="/current-biology/home" id="current-biology">Current Biology</a></li>               
+<li> <a href="/developmental-cell/home" id="developmental-cell">Developmental Cell</a></li> 
+<li> <a href="/immunity/home" id="immunity">Immunity</a></li>               
+<li> <a href="/molecular-cell/home" id="molecular-cell">Molecular Cell</a></li>   
+<li> <a href="/neuron/home" id="neuron">Neuron</a></li>                          
+<li> <a href="/structure/home" id="structure">Structure</a></li>   
+</ul>  
+</div>
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_13_24">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="ba8392a1-2170-44bd-9689-2b720697444d">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid gutterless">
+    <div class="width_7_24">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="39dccd37-40a4-4f16-8087-c4761c810dbc">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div style="margin-top: 20px; padding-left: 18px; border-left: 1px solid #9a9a9a; height: 220px;" >
+<h5>Partner Journals</h5>
+<ul class="plainList" style="margin-top: 20px;">   <li><a href="/AJHG/home" id="AJHG">AJHG</a></li>               <li> <a href="/biophysj/home" id="biophysj">Biophysical Journal</a></li>  <li><a href="http://www.ebiomedicine.com/" id="ebiomedicine">EBioMedicine</a></li> <li> <a href="/molecular-plant/home" id="molecular-plant">Molecular Plant</a></li>      <li> <a href="/stem-cell-reports/home" id="stem-cell-reports">Stem Cell Reports</a></li>        </ul>
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="width_17_24">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="4aa4bf6a-a9aa-43e4-9443-190312a59b5a">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div style="margin-top: 20px; padding-left: 15px; border-left: 1px solid #9a9a9a; height: 220px;" >
+<h5>Trends in...</h5>
+
+<div class="twoCol" style="margin-top: 20px;" >   <ul class="plainList">      <li> <a href="/trends/biochemical-sciences/home" id="biochemical-sciences">Biochemical Sciences</a></li>               <li> <a href="/trends/biotechnology/home" id="biotechnology">Biotechnology</a></li> 
+<li> <a href="/trends/cancer/home" id="cancer">Cancer</a></li>              <li> <a href="/trends/cell-biology/home" id="cell-biology">Cell Biology</a></li>               <li> <a href="/trends/cognitive-sciences/home" id="cognitive-sciences">Cognitive Sciences</a></li>               <li> <a href="/trends/ecology-evolution/home" id="ecology-evolution">Ecology &amp; Evolution</a></li>               <li> <a href="/trends/endocrinology-metabolism/home" id="endocrinology-metabolism">Endocrinology &amp; Metabolism</a></li>               <li> <a href="/trends/genetics/home" id="genetics">Genetics</a></li>  </ul>   <ul class="plainList">             <li> <a href="/trends/immunology/home" id="immunology">Immunology</a></li>               <li> <a href="/trends/microbiology/home" id="microbiology">Microbiology</a></li>               <li> <a href="/trends/molecular-medicine/home" id="molecular-medicine">Molecular Medicine</a></li>               <li> <a href="/trends/neurosciences/home" id="neurosciences">Neurosciences</a></li>               <li> <a href="/trends/parasitology/home" id="parasitology">Parasitology</a></li>               <li> <a href="/trends/pharmacological-sciences/home" id="pharmacological-sciences">Pharmacological Sciences</a></li>               <li> <a href="/trends/plant-science/home" id="plant-science">Plant Science</a></li>   </ul>  </div></div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-rich-text none  widget-none  widget-compact-all" id="beb188db-b8b4-4a86-84de-d9e15fd33b33">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div id="rich-text-beb188db-b8b4-4a86-84de-d9e15fd33b33" class="pb-rich-text">
+        <p style="text-align: center;"><em> Cell</em> ISSN:&nbsp;0092-8674</p>
+</div></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html alignCenter  widget-none" id="0425251f-9c12-4e28-a16e-383bf3d865da">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><div>Copyright © 2015 Elsevier Inc. except certain content provided by third parties</div></div>
+        </div>
+    </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="94fe9e3f-2906-4d4e-a0fa-d3fdbe0ada79">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script>var _prum=[["id","552dcbc1abe53d203288e85a"],["mark","firstbyte",(new Date).getTime()]];!function(){var e=document.getElementsByTagName("script")[0],t=document.createElement("script");t.async="async",t.src="//rum-static.pingdom.net/prum.min.js",e.parentNode.insertBefore(t,e)}();</script></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="d36f6675-a9fa-4488-afe8-00f6169da4ac">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><!--[if lt IE 8]>  <style type="text/css">  body {   padding-top: 30px;  }  #ieMessage {   position: fixed;   top: 0;   left: 0;   width: 100%;   height: 20px;   padding: 5px 0;   background: #800;   color: #fff;   text-align: center;  }  #ieMessage a {   color: #fff;   text-decoration: underline;   font-weight: bold;  } .hideIE7 { display: none !important;} </style>    <div id="ieMessage">    <span>The Cell Press web sites do not support Internet Explorer 6 or 7. Please <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">upgrade</a> to a higher version, or switch to <a href="http://google.com/chrome">Chrome</a> or <a href="http://www.mozilla.org/firefox">Firefox</a>.</span>  </div>  <![endif]-->    <!--[if lt IE 7]>  <style type="text/css">  #ieMessage { position: absolute; }  </style>  <![endif]--></div>
+        </div>
+    </div>
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+    <div class="widget general-html none  widget-none" id="7c7bd1ea-30e1-45c5-8c1c-ae37cce4fcb1">
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 629998635]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code --></div>
+        </div>
+    </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    
+
+
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-8e350dc4ceceb17a5d77c03f66d95608807a5585.js"></script>
+
+
+
+<script type="text/javascript">
+    var pageData =  {"journal":{"issn":"0092-8674","specialty":"Cell Press","name":"Cell"},"page":{"businessUnit":"ELS:RAP:JBS","noTracking":"","name":"issues","server":"cell","type":"PU-PI","productName":"JB","section":"Cell","loadTimestamp":"1452384852396"},"visitor":{}};
+</script>
+
+
+<script type="text/javascript">pageDataTracker.trackPageLoad();</script>
+
+
+<script type="text/javascript">
+    $(function() { $.smartbanner({layer :true})})
+</script>
+</body>
+</html>
