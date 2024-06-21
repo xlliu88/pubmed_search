@@ -2,7 +2,7 @@
 #This script is aim to fetch articals from PubMed via Entrez
 #Xunliang
 #start date: March 3, 2016
-#Last modified: March 3, 2016
+#Last modified: June 1, 2024
 
 from Bio import Entrez as Ez
 import itertools as it
