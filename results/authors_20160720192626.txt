@@ -1,3 +1,0 @@
-Name	Author Type	Article Type	pmid	Journal	Year	Article title	Author affiliation
-A J Clarke	First	Journal Article	6029542	Nature	1967	Flavianic acid as a hatching agent for Heterodera cruciferae Franklin and other cyst nematodes.	
-A M Shepherd	Corresponding	Journal Article	6029542	Nature	1967	Flavianic acid as a hatching agent for Heterodera cruciferae Franklin and other cyst nematodes.	
